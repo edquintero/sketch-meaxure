@@ -6,6 +6,25 @@
     <description>Make it a fun to create spec for developers and teammates</description>
     <language>en</language>
     <item>
+    <title>Version 3.3.5</title>
+    <description>
+        <![CDATA[
+        <ul>
+            <li>Actualización para compatibilidad con Sketch 2025.1</li>
+            <li>Eliminado el uso de currentArtboard() obsoleto</li>
+            <li>Implementada nueva API sketch.find() para obtener artboards</li>
+            <li>Añadido mejor manejo de casos nulos</li>
+        </ul>
+        ]]>
+    </description>
+    <pubDate>FECHA_ACTUAL</pubDate>
+    <enclosure url="https://github.com/qjebbs/sketch-meaxure/releases/download/v3.3.5/sketch-meaxure.sketchplugin.zip"
+        sparkle:version="3.3.5"
+        sparkle:shortVersionString="3.3.5"
+        length="TAMAÑO_DEL_ARCHIVO"
+        type="application/zip" />
+</item>
+    <item>
       <enclosure url="https://github.com/qjebbs/sketch-meaxure/releases/download/v3.3.4/sketch-meaxure.sketchplugin.zip" sparkle:version="3.3.4"/>
     </item>
     <item>
